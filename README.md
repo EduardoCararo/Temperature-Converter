@@ -23,12 +23,16 @@ Enter a temperature in Celsius, click "Convert", and see the result in Fahrenhei
 - Input validation with alert if empty
 - Clean and responsive visual layout
 
-## 📁 Project Structure
+### 📁 Project Structure
+
+```
 /temperature-converter
 │
 ├── index.html      # HTML page structure
 ├── style.css       # CSS styles
 └── script.js       # Converter logic (JavaScript)
+```
+
 
 
 ## 🧠 Conversion Logic
