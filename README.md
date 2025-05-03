@@ -8,7 +8,7 @@ Enter a temperature in Celsius, click "Convert", and see the result in Fahrenhei
 
 ## 📷 Screenshot
 
-![App Screenshot]([path/to/screenshot.png](https://files.oaiusercontent.com/file-1DSiyW4EWBrfznmAaJVuNX?se=2025-05-03T00%3A55%3A30Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D8e048cf2-ea3c-4018-a19f-779ffc1a5d92.png&sig=QPxY21LYHB8fR%2B5l4Jnm3Y04jF75gq9F9bLOWeevOIc%3D))
+![App Screenshot](https://github.com/EduardoCararo/Teste/blob/main/Conversor%20de%20Temperatura.png?raw=true)
 
 ## 🛠️ Technologies Used
 
