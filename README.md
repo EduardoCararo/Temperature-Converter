@@ -25,9 +25,11 @@ Enter a temperature in Celsius, click "Convert", and see the result in Fahrenhei
 
 ## 📁 Project Structure
 /temperature-converter
-├── index.html # HTML structure
-├── style.css # CSS styles
-└── script.js # JavaScript logic
+│
+├── index.html      # HTML page structure
+├── style.css       # CSS styles
+└── script.js       # Converter logic (JavaScript)
+
 
 ## 🧠 Conversion Logic
 
